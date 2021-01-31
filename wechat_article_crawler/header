@@ -1,0 +1,12 @@
+Host: mp.weixin.qq.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAwMzU1ODAwOQ==&uin=MTc2OTQ2Mjc3MQ%3D%3D&key=8ef037b02dd197d387d88309dbbbdee9ada4fd3f78c5682eeff719d2c23871967adb5e375ec17b6dfd7e0b25ab5a5e4f7b9f120157e85f21e6fb2324f6db46ed4f26284f734cb7bec6c47fd57ac7292d59b4476e5d32160b37f34d573db45f32d147a13332195c282de0808f0ef5640ca6410bdbb3ef47ac77d9919331bbc329&devicetype=Windows+10+x64&version=63010043&lang=zh_CN&a8scene=7&pass_ticket=WobaG0TjAGPOyhsl5v705iUCfZzCp70KKvXknf%2FxQFH87Exp7cQub0iwU69zuzRZ&fontgear=2
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: pgv_pvid=3287909096; pac_uid=0_afad5ae74b8de; iip=0; tvfe_boss_uuid=203f16d2dd78f920; rewardsn=; wxtokenkey=777; wxuin=1769462771; pass_ticket=WobaG0TjAGPOyhsl5v705iUCfZzCp70KKvXknf/xQFH87Exp7cQub0iwU69zuzRZ; devicetype=android-29; version=2700163b; lang=en; wap_sid2=CPO338sGEooBeV9IRk5VV0RpTzkzdXpHQkxFYWRwZE1zdUt4M09NTk51MTFTbmRCcW81N3ZwVTFVZ25GYzAtNzRZR3FuTV9XT0pZYWdsZk9oQmtrNHVnc3J3UGdYZU1McWFvQ1RhWFJBRGZJR3lhbk1VUzlRLWpmb216YmxiQnVnVnRGWlBJVUJpa0t5Y1NBQUF+MIeKxYAGOA1AlU4=
